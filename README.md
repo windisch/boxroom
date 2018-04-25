@@ -1,6 +1,6 @@
 # headhunter-reply
 
-My generic reply to headhunters:
+My generic reply to headhunters. Feel free to fork and to edit it to your liking!
 
 ```
 Dear Headhunter,
