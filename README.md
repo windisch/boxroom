@@ -18,7 +18,7 @@ Currently, I don’t see any reason why I should change anything on
 my situation (although earning money is by far not the main criteria 
 for my personal employment-selection-process, be rest assured that I 
 get a decent amount of such). I promise you that once any of the 
-conditions stated above changes, you are one of the first I will 
+conditions stated above change, you are one of the first I will 
 get in touch with.
 
 So long, stay tuned!
