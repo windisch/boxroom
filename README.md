@@ -15,3 +15,4 @@ Everybody is annoyed of generic spam of headhunters.
 ## Scientific
 
 * [Overview](./notebooks/non_linear_optimization.ipynb) of how to solve non-linear optimization problems with `scipy`.
+* [Rotating a sinus](./notebooks/rotating_sinus.ipynb) in two dimensions
