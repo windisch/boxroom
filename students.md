@@ -173,6 +173,6 @@ guide whenever you are unsure how to behave or what to do next.
 
 *Remark*: When writing this, I was inspired a lot by my PhD supervisor
 [Thomas Kahle](http://www.thomas-kahle.de) and by the many studens
-supervised by me that helped improviing this guide. Thanks to [Kevin
+supervised by myself that helped improviing this guide. Thanks to [Kevin
 Richter](https://github.com/kevinric), Benjamin Louisot, and [Jonas
 Otten](https://github.com/sauercrowd).
