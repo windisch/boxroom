@@ -16,3 +16,4 @@ Everybody is annoyed of generic spam of headhunters.
 
 * [Overview](./notebooks/non_linear_optimization.ipynb) of how to solve non-linear optimization problems with `scipy`.
 * [Rotating a sinus](./notebooks/rotating_sinus.ipynb) in two dimensions
+* [Analysis](./notebooks/first_orchard_and_dynamic_programming.ipynb) of winning probability of kids game "First orchard" with dynamic programming.
