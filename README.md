@@ -1,4 +1,4 @@
-# Guides
+# Boxroom
 
 This is a collection of my personalized templates and guides helping
 me organizig my work and coding life. Feel free to fork and to edit it
