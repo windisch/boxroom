@@ -6,13 +6,13 @@ to your liking!
 
 ## Supervising students
 If you are a student under my supervision, then [this
-guide](students.md) may ease your work.
+guide](./guides/students.md) may ease your work.
 
 ## Headhunters
 Everybody is annoyed of generic spam of headhunters.
-[Here](headhunters.md) is my generic reply message.
+[Here](./templates/headhunters.md) is my generic reply message.
 
-## Scientific
+## Scientific coding
 
 * [Overview](./notebooks/non_linear_optimization.ipynb) of how to solve non-linear optimization problems with `scipy`.
 * [Rotating a sinus](./notebooks/rotating_sinus.ipynb) in two dimensions
