@@ -18,3 +18,4 @@ Everybody is annoyed of generic spam of headhunters.
 * [Rotating a sinus](./notebooks/rotating_sinus.ipynb) in two dimensions
 * [Analysis](./notebooks/first_orchard_and_dynamic_programming.ipynb) of winning probability of kids game "First orchard" with dynamic programming.
 * [Introduction](./notebooks/learning_large_structural_causal_models.ipynb) into structural causal models and how to learn them in high-dimensions.
+* [Curve fitting and generation](./notebooks/curve_generation_pytorch.ipynb) using automatic differenzation with `pytorch`.
